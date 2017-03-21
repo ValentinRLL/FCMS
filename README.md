@@ -1,3 +1,5 @@
-# Containing Libs
+# FUSIONCMS
 
-https://bitbucket.org/wiredesignz/codeigniter-modular-extensions-hmvc/overview
+FusionCMS is officially discontinued, so we decided to open source our work here. We wish you fun with the sources and are sorry for the inconviniences caused.
+
+Best of luck
